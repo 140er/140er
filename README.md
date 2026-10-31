@@ -1,4 +1,4 @@
-Hi, I'm 140er. I build tools for sim racing and Minecraft automation.
+Hi, I'm 140er, professional slop artist. I build tools for sim racing and Minecraft automation.
 
 ```console
 $ ls ~/projects
